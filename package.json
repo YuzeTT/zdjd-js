@@ -1,0 +1,17 @@
+{
+  "name": "zdjd-js",
+  "version": "1.0.0",
+  "description": "尊嘟假嘟o.0 没用的判断真假的函数",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YuzeTT",
+  "license": "MIT",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuzeTT/zdjd-js.git"
+  },
+  "homepage": "https://github.com/YuzeTT/zdjd-js"
+}
